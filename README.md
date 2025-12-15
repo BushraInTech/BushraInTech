@@ -39,7 +39,9 @@
 
 #### 🌍 WanderLust – Travel Website
   🔧 Tech: HTML, CSS, JavaScript
+  
  ✨ Features: Responsive UI, destinations gallery
+ 
  🔗 Repo: https://github.com/BushraInTech/WanderLust
 
 ### 📚 Currently Learning
