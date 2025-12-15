@@ -1,4 +1,4 @@
-# BushraBibi
+
 
 ## Hi there, I'm Bushra Bibi 👋
 ### 💻 Full Stack Web Developer (Fresher / Intern)
@@ -9,6 +9,8 @@
  🎓 Computer Science student (Final Year)
  
  🚀 Passionate about **Web Development**
+ 
+ 🏢 Completed an **online MERN Stack internship at 10Pearls**,
  
  📱 Learning and building projects using **HTML, CSS, JavaScript, Node.js, Express.js & MongoDB**
  
@@ -27,13 +29,25 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-
-### 📚 Currently Learning
-- RESTful APIs
-- Backend Architecture
-- Database Optimization
+#### 📝 Notes App (MERN Stack)
+- 📌 Built during **10Pearls Online Internship**
+- 🔧 Tech: MongoDB, Express.js, React, Node.js
+- ✨ Features: Authentication, CRUD Notes, REST APIs
+- 🔗 Repo: https://github.com/BushraInTech/bushrabibi-mern-10pshine
 
 ---
+
+#### 🌍 WanderLust – Travel Website
+  🔧 Tech: HTML, CSS, JavaScript
+ ✨ Features: Responsive UI, destinations gallery
+ 🔗 Repo: https://github.com/BushraInTech/WanderLust
+
+### 📚 Currently Learning
+  RESTful APIs
+  Backend Architecture
+  Database Optimization
+
+
 
 ### 📫 Connect With Me
 - 📧 Email: bushrashah5656@gmail.com
