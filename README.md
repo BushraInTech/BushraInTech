@@ -33,7 +33,7 @@
 - 📌 Built during **10Pearls Online Internship**
 - 🔧 Tech: MongoDB, Express.js, React, Node.js
 - ✨ Features: Authentication, CRUD Notes, REST APIs
-- 🔗 Repo: https://github.com/BushraInTech/bushrabibi-mern-10pshine
+- 🔗 https://github.com/BushraInTech/Bushrabibi-mern-10pshine/tree/develop
 
 ---
 
